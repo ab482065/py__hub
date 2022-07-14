@@ -623,8 +623,3 @@ Sometimes it can help to better understand the complexity of a software architec
 <p align="center">
 <img src="https://raw.githubusercontent.com/glato/assets/emerge/ball_of_mud_all_dependencies.png" width="43%"/> &ensp; <img src="https://raw.githubusercontent.com/glato/assets/emerge/cleaner_graph_hub_nodes.png" width="36%"/>
 </p>
-
-## Further development
-
-- Parsing of further entity types for more languages is planned for further development. [Contributions](CONTRIBUTING.md) are very welcome ❤️
-- Everyone is invited to contribute to this project, whether the contribution is related with development, testing, bug reporting or any other support. I would appreciate any help. See [Contributing](CONTRIBUTING.md) and [Credits](CREDITS.md) for further details.
