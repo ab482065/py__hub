@@ -1,13 +1,3 @@
-# Emerge
-
-![GitHub license](https://img.shields.io/github/license/glato/emerge)
-![GitHub tag version](https://img.shields.io/github/v/tag/glato/emerge)
-![PyPI](https://img.shields.io/pypi/v/emerge-viz)
-![Python version](https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10-blue)
-![Code size](https://img.shields.io/github/languages/code-size/glato/emerge)
-![Repo size](https://img.shields.io/github/repo-size/glato/emerge)
-![PyPI](https://img.shields.io/pypi/dw/emerge-viz)
-![PyPI](https://img.shields.io/pypi/dm/emerge-viz)
 
 **Emerge** (or **emerge-viz**) is a code analysis tool to gather insights about source code structure, metrics, dependencies and complexity of software projects. You can use it to scan the source code of a project, calculate metric results and statistics, map the source code to graph structures (e.g. a dependency graph or a filesystem graph), export the results in other file formats and even create an **interactive web application** for further exploration. Emerge currently has scanning support for the following languages: `C`, `C++`, `Groovy`, `Java`, `JavaScript`, `TypeScript`, `Kotlin`, `ObjC`, `Ruby`, `Swift`, `Python`. The structure, coloring and clustering is calculated and based on the idea of combining a [force-directed graph](https://github.com/d3/d3-force) simulation and [Louvain modularity](https://github.com/taynaud/python-louvain). emerge is mainly written in Python 3 and is tested on macOS, linux and modern web browsers (i.e. latest Safari, Chrome, Firefox, Edge).
 
